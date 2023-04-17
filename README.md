@@ -6,4 +6,4 @@ This assignment was about refactoring provided code so tabs in the navigation ba
 
 ## Screenshot
 
-![Horiseon Nav Bar](./Assets/01-screenshot.PNG)
+![Horiseon Nav Bar](./assets/01-screenshot.PNG)
